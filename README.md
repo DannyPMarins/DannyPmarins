@@ -1,7 +1,7 @@
 ### Olá 👋, Meu nome é Daniel P Marins
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQHkL1XdlPt55w/profile-displaybackgroundimage-shrink_200_800/0/1643485458882?e=1648684800&v=beta&t=Rqob42ZRYZ2EydgdNmOA-YZXEuADiQaOgIdFmKks4IA)
 
-Sou um web designer formado em design gráfico e desenvolvedor front-end, moro no Rio de Janeiro - RJ, atualmente estou cursando análise e desenvolvimento de sistemas na IBMR.
+Sou um web designer formado em design gráfico e desenvolvedor front-end, moro no Rio de Janeiro - RJ, atualmente cursando análise e desenvolvimento de sistemas na IBMR.
 
 Habilidades Web Design: 
 

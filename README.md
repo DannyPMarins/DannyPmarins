@@ -3,9 +3,8 @@
 
 Sou um web designer formado em design gráfico e desenvolvedor front-end, moro no Rio de Janeiro - RJ, atualmente estou cursando análise e desenvolvimento de sistemas na IBMR.
 
-Habilidades: Photoshop / Illustrator/ Premier Pro / Indesign / JavaScript / HTML / CSS / Bootstrap / PHP / Python / Java / jQuerry
-
-<img src='https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0-1536x1536.png' alt='photoshop' height='40'><img src='https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-0-1-1536x1536.png' alt='illustrator' height='40'> <img src='https://es.logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-4-11-300x293.png' alt='premier' height='36'> <img src='https://e7.pngegg.com/pngimages/256/929/png-clipart-id-logo-indesign-logo-icons-logos-emojis-tech-companies-thumbnail.png' alt='indesign' height='40'>
+Habilidades: 
+Photoshop / Illustrator/ Premier Pro / Indesign / JavaScript / HTML / CSS / Bootstrap / PHP / Python / Java / jQuerry
 
 - 🔭 Trabalhando em Web Design 
 - 🌱 Estudando Back-end 

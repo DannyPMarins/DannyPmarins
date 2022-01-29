@@ -29,6 +29,8 @@ Habilidades Web Design:
 </div>
 <br>
 
+### Para referencias de trabalhos favor acessar os meus repositorios com projetos anteriores... ### 
+
 - 🔭 Trabalhando em Web Design 
 - 🌱 Estudando Back-end 
 - 💬 Whassapp: (21) 97992-3318 

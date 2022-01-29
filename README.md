@@ -14,7 +14,7 @@ Habilidades Web Design:
   <img align="center" alt="python" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
   <img align="center" alt="java" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="jquerry" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" >
-  <img align="center" alt="git" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="git" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
   
   </div>
   <br>

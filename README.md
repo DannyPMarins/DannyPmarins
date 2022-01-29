@@ -15,7 +15,7 @@ Habilidades Web Design:
   <img align="center" alt="java" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="jquerry" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" >
   <img align="center" alt="git" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
-  
+  <h3>HTML / CSS / Javascript / Bootstrap / PHP / Python / Java / jQuerry / Git <h3>
   </div>
   <br>
   Habilidades Design:
@@ -26,6 +26,7 @@ Habilidades Web Design:
   <img align="center" alt="illustrator" width="45" heith="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" >
   <img align="center" alt="indesign" width="45" heith="35" src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611049.png?token=exp=1643491757~hmac=70a27f6406aa62bee17b2353e5edb19e" >
   <img align="center" alt="premier" width="45" heith="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" >
+    <h3>Photoshop / Illustrator / Indesign / Premier Pro <h3>
 </div>
 <br>
 

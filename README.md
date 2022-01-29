@@ -6,24 +6,24 @@ Sou um web designer formado em design gráfico e desenvolvedor front-end, moro n
 Habilidades Web Design: 
 
   <div>
-  <img align="center" alt="html" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" >
-  <img align="center" alt="css" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" >
-  <img align="center" alt="javascript" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-  <img align="center" alt="bootstrap" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
-  <img align="center" alt="php" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" >
-  <img align="center" alt="python" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
-  <img align="center" alt="java" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="jquerry" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" >
-  <img align="center" alt="git" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="html" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" >
+  <img align="center" alt="css" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" >
+  <img align="center" alt="javascript" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
+  <img align="center" alt="bootstrap" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
+  <img align="center" alt="php" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" >
+  <img align="center" alt="python" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
+  <img align="center" alt="java" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="jquerry" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" >
+  <img align="center" alt="git" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   
   </div>
   <br>
   Habilidades Design:
   
   <div>
-  <img align="center" alt="photoshop" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" >
-  <img align="center" alt="illustrator" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" >
-  <img align="center" alt="premier" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" >
+  <img align="center" alt="photoshop" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" >
+  <img align="center" alt="illustrator" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" >
+  <img align="center" alt="premier" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" >
 </div>
 <br>
 

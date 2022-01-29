@@ -7,7 +7,7 @@ Habilidades:
 Photoshop / Illustrator/ Premier Pro / Indesign / JavaScript / HTML / CSS / Bootstrap / PHP / Python / Java / jQuerry
   <div>
   <img align="center" alt="html" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" >
-  <img align="center" alt="css" width="40" heith="30" rc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" >
+  <img align="center" alt="css" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" >
   <img align="center" alt="javascript" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
   <img align="center" alt="bootstrap" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
   <img align="center" alt="php" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" >

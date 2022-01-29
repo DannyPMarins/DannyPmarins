@@ -5,6 +5,16 @@ Sou um web designer formado em design gráfico e desenvolvedor front-end, moro n
 
 Habilidades: 
 Photoshop / Illustrator/ Premier Pro / Indesign / JavaScript / HTML / CSS / Bootstrap / PHP / Python / Java / jQuerry
+  <div>
+  <img align="center" alt="html" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" >
+  <img align="center" alt="css" width="40" heith="30" rc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" >
+  <img align="center" alt="javascript" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
+  <img align="center" alt="bootstrap" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
+  <img align="center" alt="php" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" >
+  <img align="center" alt="python" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
+  <img align="center" alt="java" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="jquerry" width="40" heith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" >
+  </div>
 
 - 🔭 Trabalhando em Web Design 
 - 🌱 Estudando Back-end 

@@ -5,6 +5,8 @@ Sou um web designer formado em design gráfico e desenvolvedor front-end, moro n
 
 Habilidades: Photoshop / Illustrator/ Premier Pro / Indesign / JavaScript / HTML / CSS / Bootstrap / PHP / Python / Java / jQuerry
 
+<img src='https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0-1536x1536.png' alt='photoshop' height='40'>[<img src='https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-0-1-1536x1536.png' alt='illustrator' height='40'>] [<img src='hhttps://es.logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-4-11-300x293.png' alt='premier' height='40'>] [<img src='https://www.freeiconspng.com/img/28410">Icon Pictures Indesign Logo' alt='indesign' height='40'>
+
 - 🔭 Trabalhando em Web Design 
 - 🌱 Estudando Back-end 
 - 💬 Whassapp: (21) 97992-3318 

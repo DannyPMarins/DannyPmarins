@@ -19,10 +19,12 @@ Habilidades Web Design:
   </div>
   <br>
   Habilidades Design:
+  <br>
   
   <div>
   <img align="center" alt="photoshop" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" >
   <img align="center" alt="illustrator" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" >
+  <img align="center" alt="indesign" width="45" heith="35" src="https://cdn-icons-png.flaticon.com/512/688/688065.png" >
   <img align="center" alt="premier" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" >
 </div>
 <br>

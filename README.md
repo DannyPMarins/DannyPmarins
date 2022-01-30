@@ -3,6 +3,16 @@
 
 Sou um web designer formado em design gráfico e desenvolvedor front-end, moro no Rio de Janeiro - RJ, atualmente cursando análise e desenvolvimento de sistemas na IBMR.
 
+Experiencias:<br>
+Tenho experiência na criação de Banners, logos, cartão visitas,
+anúncios, criação de artes, criação de sites,outros projetos de criação. Formação em Design Gráfico e Desenvolvedor Front-end.Instalação/manutenção de hardware e software.
+
+Linguas:<br>
+🇺🇸 Inglês:     Fluente <br>
+🇫🇷 Francês:    Básico <br>
+🇪🇸 Espanhol:   Básico <br>
+🇵🇹 Portugues: Nativo <br>
+
 Habilidades Web Design: 
 
   <div>

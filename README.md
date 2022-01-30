@@ -3,11 +3,11 @@
 
 Sou um web designer formado em design gráfico e desenvolvedor front-end, moro no Rio de Janeiro - RJ, atualmente cursando análise e desenvolvimento de sistemas na IBMR.
 
-<h1>Experiencias:</h1><br>
+<h3>Experiencias:</h3><br>
 Tenho experiência na criação de Banners, logos, cartão visitas,
 anúncios, criação de artes, criação de sites,outros projetos de criação. Formação em Design Gráfico e Desenvolvedor Front-end.Instalação/manutenção de hardware e software.
 
-<h1>Linguas:</h1><br>
+<h3>Linguas:</h3><br>
 🇺🇸 Inglês:     Fluente <br>
 🇫🇷 Francês:    Básico <br>
 🇪🇸 Espanhol:   Básico <br>
@@ -15,7 +15,7 @@ anúncios, criação de artes, criação de sites,outros projetos de criação. 
 
 <br>
 
-<h1>Habilidades Web Design:</h1>
+<h3>Habilidades Web Design:</h3>
 
   <div>
   <img align="center" alt="html" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" >
@@ -30,7 +30,7 @@ anúncios, criação de artes, criação de sites,outros projetos de criação. 
   <h3>HTML / CSS / Javascript / Bootstrap / PHP / Python / Java / jQuerry / Git <h3>
   </div>
   <br>
-  <h1>Habilidades Design:</h1>
+  <h3>Habilidades Design:</h3>
   <br>
   
   <div>

@@ -7,12 +7,6 @@ Sou um web designer formado em design gráfico e desenvolvedor front-end, moro n
 Tenho experiência na criação de Banners, logos, cartão visitas,
 anúncios, criação de artes, criação de sites,outros projetos de criação. Formação em Design Gráfico e Desenvolvedor Front-end.Instalação/manutenção de hardware e software.
 
-<h3>Linguas:</h3><br>
-🇺🇸 Inglês:     Fluente <br>
-🇫🇷 Francês:    Básico <br>
-🇪🇸 Espanhol:   Básico <br>
-🇵🇹 Portugues: Nativo <br>
-
 <br>
 
 <h3>Habilidades Web Design:</h3>

@@ -30,7 +30,7 @@ anúncios, criação de artes, criação de sites,outros projetos de criação. 
   <div>
   <img align="center" alt="photoshop" width="45" heith="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" >
   <img align="center" alt="illustrator" width="45" heith="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" >
-  <img align="center" alt="indesign" width="45" heith="35" src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611049.png?token=exp=1643491757~hmac=70a27f6406aa62bee17b2353e5edb19e" >
+  <img align="center" alt="indesign" width="45" heith="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/512px-Adobe_InDesign_CC_icon.svg.png" >
   <img align="center" alt="premier" width="45" heith="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" >
     <h3>Photoshop / Illustrator / Indesign / Premier Pro <h3>
 </div>

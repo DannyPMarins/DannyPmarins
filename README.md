@@ -21,7 +21,8 @@ anúncios, criação de artes, criação de sites,outros projetos de criação. 
   <img align="center" alt="java" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="jquerry" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" >
   <img align="center" alt="git" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
-  <h3>HTML / CSS / Javascript / Bootstrap / PHP / Python / Java / jQuerry / Git <h3>
+  <img align="center" alt="git" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
+  <h3>HTML / CSS / Javascript / Bootstrap / PHP / Python / Java / jQuerry / Git / Typescript <h3>
   </div>
   <br>
   <h3>Habilidades Design:</h3>

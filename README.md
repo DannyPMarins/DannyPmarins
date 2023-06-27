@@ -1,7 +1,27 @@
 ### Olá 👋, Meu nome é Daniel P Marins
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQFTKkZvcKkZyQ/profile-displaybackgroundimage-shrink_200_800/0/1643500299861?e=1648684800&v=beta&t=KjmKxbbUomSOsqvYehyzyFyOvySuNmIACnBsHw5uAvE)
 
-Sou um web designer formado em design gráfico e desenvolvedor front-end, moro no Rio de Janeiro - RJ, formação em análise e desenvolvimento de sistemas.
+Olá a todos estou aqui hoje para apresentar a vocês o poder da inovação por meio do código, como um desenvolvedor apaixonado, meu objetivo é compartilhar com você como o código pode capacitar empresas, melhorar as experiências do usuário e gerar mudanças transformadoras.
+
+Minhas especialidades:
+
+Entendendo o poder do código
+Oferecendo soluções impactantes
+Aproveitando tecnologias emergentes
+Abordagem de Desenvolvimento Colaborativo
+
+Sobre código:
+
+O código é a espinha dorsal do nosso mundo digital.
+É a linguagem que nos permite transformar ideias em realidade.
+Através da programação, temos a capacidade de resolver problemas complexos e criar soluções inovadoras.
+
+Oferecendo soluções impactantes:
+
+O desenvolvimento de software bem-sucedido é mais do que linhas de código.
+Requer uma compreensão profunda das necessidades do usuário e dos objetivos de negócios. Ao empregar uma abordagem centrada no usuário, eu me esforço para oferecer soluções que não apenas atendam às expectativas, mas as excedam.
+
+Obrigado, agradeço por seu tempo e atenção.
 
 <h3>Experiencias:</h3><br>
 Tenho experiencia em desenvolvimento Front-end com conhecimentos em Back-end, de uma olhada nos repositórios com meus projetos.

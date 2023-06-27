@@ -1,12 +1,10 @@
 ### Olá 👋, Meu nome é Daniel P Marins
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQFTKkZvcKkZyQ/profile-displaybackgroundimage-shrink_200_800/0/1643500299861?e=1648684800&v=beta&t=KjmKxbbUomSOsqvYehyzyFyOvySuNmIACnBsHw5uAvE)
 
-Sou um web designer formado em design gráfico e desenvolvedor front-end, moro no Rio de Janeiro - RJ, atualmente cursando análise e desenvolvimento de sistemas na IBMR.
+Sou um web designer formado em design gráfico e desenvolvedor front-end, moro no Rio de Janeiro - RJ, formação em análise e desenvolvimento de sistemas.
 
 <h3>Experiencias:</h3><br>
-Tenho experiência na criação de Banners, logos, cartão visitas,
-anúncios, criação de artes, criação de sites,outros projetos de criação. Formação em Design Gráfico e Desenvolvedor Front-end.Instalação/manutenção de hardware e software.
-
+Tenho experiencia em desenvolvimento Front-end com conhecimentos em Back-end, de uma olhada nos repositórios com meus projetos.
 <br>
 
 <h3>Habilidades Web Design:</h3>

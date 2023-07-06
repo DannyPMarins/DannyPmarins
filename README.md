@@ -24,7 +24,7 @@ Requer uma compreensão profunda das necessidades do usuário e dos objetivos de
 Obrigado, agradeço por seu tempo e atenção.
 
 <h3>Experiencias:</h3><br>
-Tenho experiencia em desenvolvimento Front-end com conhecimentos em Back-end, de uma olhada nos repositórios com meus projetos.
+Tenho experiencia em desenvolvimento Front-end com conhecimentos em Back-end, de uma olhada nos repositórios com meus projetos, voce encontrará meus certificados no repositório "DannyPmarins".
 <br>
 
 <h3>Habilidades Web Design:</h3>

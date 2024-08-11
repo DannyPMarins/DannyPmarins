@@ -41,7 +41,7 @@ Tenho experiencia em desenvolvimento Front-end com conhecimentos em Back-end, de
   <img align="center" alt="git" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
   <img align="center" alt="git" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
   <img align="center" alt="git" width="45" heith="35" src="https://img.icons8.com/?size=512&id=40670&format=png" >
-  <img align="center" alt="git" width="45" heith="35" src="https://icon-icons.com/icon/csharp-plain-logo/146577" >
+  <img align="center" alt="git" width="45" heith="35" src="https://camo.githubusercontent.com/cf8ce03b1f86674dc94383197d84300f128723ed5aeb13a2ff67fa710b219dbc/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" >
   <img align="center" alt="git" width="45" heith="35" src="https://img.icons8.com/color/48/nodejs.png" >
   <h3>HTML / CSS / Javascript / Bootstrap / PHP / Python / Java / jQuerry / Git / Typescript / C / C# / Nodejs<h3>
   </div>

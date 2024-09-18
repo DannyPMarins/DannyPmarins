@@ -60,8 +60,8 @@ Tenho experiencia em desenvolvimento Front-end com conhecimentos em Back-end, de
 
 ### Para referencias de trabalhos favor acessar os meus repositorios com projetos anteriores... ### 
 
-- 🔭 Trabalhando em Web Design 
-- 🌱 Estudando Back-end 
+- 🔭 Trabalhando como free-lancer 
+- 🌱 Desenvolvedor full stack 
 - 💬 Whassapp: (21) 96778-5500
 - 📫 Email: dannypmarins@gmail.com 
 - 😄 Apelido: Danny 

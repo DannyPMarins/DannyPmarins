@@ -42,8 +42,10 @@ Tenho experiencia em desenvolvimento Front-end com conhecimentos em Back-end, de
   <img align="center" alt="git" width="45" heith="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
   <img align="center" alt="git" width="50" heith="40" src="https://img.icons8.com/?size=512&id=40670&format=png" >
   <img align="center" alt="git" width="75" heith="65" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
-  <img align="center" alt="git" width="45" heith="35" src="https://img.icons8.com/color/48/nodejs.png" >
-  <h3>HTML / CSS / Javascript / Bootstrap / PHP / Python / Java / jQuerry / Git / Typescript / C / C# / Nodejs<h3>
+  <img align="center" alt="git" width="45" heith="35" src="https://img.icons8.com/color/48/nodejs.png">
+  <img align="center" alt="git" width="45" heith="35" src="https://www.pngegg.com/pt/png-venum">
+  
+  <h3>HTML / CSS / Javascript / Bootstrap / PHP / Python / Java / jQuerry / Git / Typescript / C / C# / Nodejs / microsoft Azure<h3>
   </div>
   <br>
   <h3>Habilidades Design:</h3>
